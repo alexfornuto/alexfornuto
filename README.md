@@ -8,4 +8,4 @@ Technical Writer by choice, junior developer by necessity. Organizer for WriteTh
 
 ## External Links
 
-- <alexfornuto.com> - I write stuff there sometimes.
+- <https://alexfornuto.com> - I write stuff there sometimes.
