@@ -7,4 +7,4 @@ Technical Writer by choice, junior developer by necessity.
 ## External Links
 
 - <https://alexfornuto.com> - I write stuff there sometimes.
-- <http://workwithme.guide/alexfornuto/> - A guide to working with me.
+- <https://workwithme.guide/alexfornuto/> - A guide to working with me.
